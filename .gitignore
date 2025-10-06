@@ -1,0 +1,17 @@
+# Fichiers bureautiques (Word, LibreOffice, OpenOffice, etc.)
+*.doc
+*.docx
+*.dot
+*.dotx
+*.odt
+*.ods
+*.odp
+*.odg
+*.ott
+*.ots
+*.otp
+*.otg
+
+# Sauvegardes temporaires de suite bureautique
+*.~lock.*#
+.~$*
